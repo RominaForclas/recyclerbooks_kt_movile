@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+        <!-- Colores base -->
+        <color name="color1">#F5587B</color>  <!-- Rojo pastel -->
+        <color name="color2">#1FAD8F</color>  <!-- Verde azulado -->
+        <color name="color3">#053643</color>  <!-- Azul claro -->
+        <color name="color4">#FF8A5C</color>  <!-- Salmón -->
+        <color name="color5">#E41749</color>" <!-- Rosado fuerte -->
+        <color name="color6">#B206B0</color>" <!-- Violeta -->
+        <color name="color7">#EBBD46</color>  <!-- Amarillo -->
+
+
+</resources>
